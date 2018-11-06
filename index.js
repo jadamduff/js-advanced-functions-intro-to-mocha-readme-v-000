@@ -13,3 +13,7 @@ function sayHeyFriend(name) {
 function favoriteIceCream(ice_cream) {
   return 'I love ' + ice_cream;
 }
+
+function shouting(string) {
+  return string.toUpperCase();
+}
